@@ -27,7 +27,7 @@ Below is a snapshot of my journey so far:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="48" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" height="48" />
 
-  <br><br>
+  <br>
 
   <!-- Other tech -->
   <img src="https://skillicons.dev/icons?i=java,html,css,php,javascript" height="48" />
