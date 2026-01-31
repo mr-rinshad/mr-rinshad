@@ -23,9 +23,9 @@ A **MCA Student** & **BSc CS Graduate**
   <img src="https://skillicons.dev/icons?i=python" height="48" />
 
   <!-- Data libraries (devicon) -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" height="48" />
+  <img src="https://raw.githubusercontent.com/mr-rinshad/mr-rinshad/main/assets/panda.png" height="48" />
+  <img src="https://raw.githubusercontent.com/mr-rinshad/mr-rinshad/main/assets/numpy.jpg" height="48" />
+  <img src="https://raw.githubusercontent.com/mr-rinshad/mr-rinshad/main/assets/mat.png" height="48" />
   <img src="https://raw.githubusercontent.com/mr-rinshad/mr-rinshad/main/assets/sql.png" height="48" />
 
 
