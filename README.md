@@ -18,16 +18,14 @@ Below is a snapshot of my journey so far:
 
 <h2 align="center">🛠 Tech Stack</h2>
 <p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" height="48"/>
+
   <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib" /><br>
   <img src="https://skillicons.dev/icons?i=java,html,css,php,javascript" />
 </p>
 
-<div align="center">
-
-### My GitHub Streak
-<img src="https://streak-stats.demolab.com/?user=mr-rinshad&theme=dark&hide_border=true" alt="GitHub Streak" />
-
-</div>
 
 ![snake gif](https://github.com/mr-rinshad/mr-rinshad/blob/output/github-snake-dark.svg)
 
