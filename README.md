@@ -8,7 +8,7 @@ A **MCA Student** & **BSc CS Graduate**
 </p>
 </div>
 
-Below is a snapshot of my journey so far:
+
 
 ### 💻 Skills :
 - **SQL**
@@ -26,7 +26,7 @@ Below is a snapshot of my journey so far:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="48" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="48" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" height="48" />
-  <img src="https://raw.githubusercontent.com/mr-rinshad/mr-rinshad/main/assets/sql.svg" height="48" />
+  <img src="https://raw.githubusercontent.com/mr-rinshad/mr-rinshad/main/assets/sql.png" height="48" />
 
 
   <br>
