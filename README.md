@@ -35,5 +35,3 @@ Below is a snapshot of my journey so far:
 - **👁 Profile Views:**  
   ![Views](https://komarev.com/ghpvc/?username=mr-rinshad&color=blue)
 
-### 🔝 Top Contributed Repositories:
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=mr-rinshad&limit=5&theme=dark&combine_all_yearly_contributions=true)
