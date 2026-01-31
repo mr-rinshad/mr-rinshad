@@ -17,13 +17,22 @@ Below is a snapshot of my journey so far:
 - **Data Visualization (Power BI)**
 
 <h2 align="center">🛠 Tech Stack</h2>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" /><br>
-<img src="https://skillicons.dev/icons?i=java,html,css,php,javascript" />
+  <!-- Python (skillicons) -->
+  <img src="https://skillicons.dev/icons?i=python" height="48" />
+
+  <!-- Data libraries (devicon) -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" height="48" />
+
+  <br><br>
+
+  <!-- Other tech -->
+  <img src="https://skillicons.dev/icons?i=java,html,css,php,javascript" height="48" />
 </p>
+
 
 
 ![snake gif](https://github.com/mr-rinshad/mr-rinshad/blob/output/github-snake-dark.svg)
