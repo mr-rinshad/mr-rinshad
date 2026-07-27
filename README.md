@@ -12,15 +12,14 @@
       <img src="https://raw.githubusercontent.com/mr-rinshad/mr-rinshad/main/assets/profile-borderr.svg" width="220" alt="Muhammed Rinshad"/>
     </td>
   <td align="left">
-      <h1>👋 Myself <span style="color:#00F7FF">MUHAMMED RINSHAD</span></h1>
+      <h1>Myself <span style="color:#00F7FF">MUHAMMED RINSHAD</span></h1>
       <p>
         <img src="https://img.shields.io/badge/MCA-Student-00F7FF?style=for-the-badge&logo=graduation-cap&logoColor=white" />
         <img src="https://img.shields.io/badge/BSc%20CS-Graduate-FF00E5?style=for-the-badge" />
       </p>
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Data+Analyst;Turning+Data+into+Decisions;Always+Learning" alt="Typing SVG" />
       <br/>
-      <sub>📊 Passionate about SQL, Python & Data Visualization</sub>
-    </td>
+    
 </table>
 
 </div>
