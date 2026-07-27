@@ -9,7 +9,7 @@
 <table>
   <tr>
     <td width="230" align="center">
-      <img src="https://raw.githubusercontent.com/mr-rinshad/mr-rinshad/main/assets/profile-border.svg" width="220" alt="Muhammed Rinshad"/>
+      <img src="https://raw.githubusercontent.com/mr-rinshad/mr-rinshad/main/assets/profile-borderr.svg" width="220" alt="Muhammed Rinshad"/>
     </td>
     <td align="left">
       <h2>Myself MUHAMMED RINSHAD</h2>
