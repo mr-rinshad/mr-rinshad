@@ -3,7 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=250&section=header&text=MUHAMMED%20RINSHAD&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=DATA%20ANALYST%20%7C%20MCA%20STUDENT&descAlignY=58&descSize=22&descColor=00F7FF" width="100%" alt="Header Banner"/>
 </p>
 
-
+<!-- ===== HERO ARTWORK SHOWCASE ===== -->
+<p align="center">
+  <img src="assets/data_analytics_hero.jpg" width="95%" style="border-radius: 12px; box-shadow: 0px 4px 20px rgba(0, 247, 255, 0.2);" alt="Data Analytics Visual Showcase"/>
+</p>
 
 <!-- ===== TYPING SVG ANIMATION ===== -->
 <p align="center">
@@ -12,7 +15,7 @@
 
 <!-- ===== BADGES ===== -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Currently-MCA%20Student-00F7FF?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=0d1117" alt="MCA Student"/>
+  <img src="https://img.shields.io/badge/Degree-MCA%20Student-00F7FF?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=0d1117" alt="MCA Student"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Degree-BSc%20CS%20Graduate-FF00E5?style=for-the-badge&logo=academic-cap&logoColor=white&labelColor=0d1117" alt="BSc CS Graduate"/>
   &nbsp;
@@ -28,7 +31,7 @@
 <table border="0">
   <tr>
     <td width="260" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/mr-rinshad/mr-rinshad/main/assets/profile-borderr.svg" width="230" alt="Muhammed Rinshad Profile"/>
+      <img src="assets/profile-borderr.svg" width="230" alt="Muhammed Rinshad Profile"/>
     </td>
     <td align="left" valign="middle">
       <h2>🚀 About Me</h2>
@@ -85,7 +88,7 @@
   <tr>
     <td width="50%" align="center" valign="top">
       <h3>📊 Data Analytics & BI</h3>
-      <img src="https://raw.githubusercontent.com/mr-rinshad/mr-rinshad/main/assets/dashboard_showcase.jpg" width="100%" style="border-radius: 8px;" alt="Dashboard Showcase"/>
+      <img src="assets/dashboard_showcase.jpg" width="100%" style="border-radius: 8px;" alt="Dashboard Showcase"/>
       <p>Exploratory Data Analysis (EDA), SQL data extraction, KPI dashboards, and business intelligence reporting.</p>
       <p>
         <img src="https://img.shields.io/badge/Tools-SQL%20%7C%20Power%20BI%20%7C%20Excel-00F7FF?style=flat-square" />
@@ -93,7 +96,7 @@
     </td>
     <td width="50%" align="center" valign="top">
       <h3>🐍 Python Data Science</h3>
-      <img src="https://raw.githubusercontent.com/mr-rinshad/mr-rinshad/main/assets/data_analytics_hero.jpg" width="100%" style="border-radius: 8px;" alt="Python Analytics Showcase"/>
+      <img src="assets/data_analytics_hero.jpg" width="100%" style="border-radius: 8px;" alt="Python Analytics Showcase"/>
       <p>Data manipulation with Pandas & NumPy, automated data processing pipelines, and statistical modeling.</p>
       <p>
         <img src="https://img.shields.io/badge/Tools-Python%20%7C%20Pandas%20%7C%20Matplotlib-FF00E5?style=flat-square" />
@@ -113,10 +116,10 @@
 <table border="0">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=mr-rinshad&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F7FF&text_color=94A3B8&icon_color=00F7FF&bg_color=0D1117" alt="Rinshad's GitHub Stats" height="180"/>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mr-rinshad&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F7FF&text_color=94A3B8&icon_color=00F7FF&bg_color=0D1117" alt="Rinshad's GitHub Stats" height="180"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-rinshad&layout=compact&theme=tokyonight&hide_border=true&title_color=00F7FF&text_color=94A3B8&bg_color=0D1117" alt="Top Languages" height="180"/>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mr-rinshad&layout=compact&theme=tokyonight&hide_border=true&title_color=00F7FF&text_color=94A3B8&bg_color=0D1117" alt="Top Languages" height="180"/>
     </td>
   </tr>
 </table>
