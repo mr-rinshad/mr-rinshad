@@ -12,7 +12,7 @@
 
 <!-- ===== BADGES ===== -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Pursing-MCA%20Student-00F7FF?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=0d1117" alt="MCA Student"/>
+  <img src="https://img.shields.io/badge/Currently-MCA%20Student-00F7FF?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=0d1117" alt="MCA Student"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Degree-BSc%20CS%20Graduate-FF00E5?style=for-the-badge&logo=academic-cap&logoColor=white&labelColor=0d1117" alt="BSc CS Graduate"/>
   &nbsp;
