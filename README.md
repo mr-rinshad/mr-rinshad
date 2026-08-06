@@ -3,10 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=250&section=header&text=MUHAMMED%20RINSHAD&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=DATA%20ANALYST%20%7C%20MCA%20STUDENT&descAlignY=58&descSize=22&descColor=00F7FF" width="100%" alt="Header Banner"/>
 </p>
 
-<!-- ===== HERO ARTWORK SHOWCASE ===== -->
-<p align="center">
-  <img src="assets/data_analytics_hero.jpg" width="95%" style="border-radius: 12px; box-shadow: 0px 4px 20px rgba(0, 247, 255, 0.2);" alt="Data Analytics Visual Showcase"/>
-</p>
+
 
 <!-- ===== TYPING SVG ANIMATION ===== -->
 <p align="center">
@@ -15,7 +12,7 @@
 
 <!-- ===== BADGES ===== -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Degree-MCA%20Student-00F7FF?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=0d1117" alt="MCA Student"/>
+  <img src="https://img.shields.io/badge/Currently-MCA%20Student-00F7FF?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=0d1117" alt="MCA Student"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Degree-BSc%20CS%20Graduate-FF00E5?style=for-the-badge&logo=academic-cap&logoColor=white&labelColor=0d1117" alt="BSc CS Graduate"/>
   &nbsp;
